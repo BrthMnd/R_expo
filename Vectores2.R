@@ -19,3 +19,12 @@ vector[vector == 500] <- 1000
 
 
 vector <- sort(vector)
+
+# Crear un vector de una dimensión
+mi_vector <- c(10, 25, 5, 18, 30, 12)
+# Nombrar el vector
+# Calcular el promedio
+# Calcular la suma del número máximo y mínimo
+# Ordenar el vector
+# Imprimir los resultados
+
